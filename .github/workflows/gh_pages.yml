@@ -17,8 +17,7 @@ jobs:
           python gen_skill_list.py
       - uses: EndBug/add-and-commit@v7
         with:
-          add: skills.json
           branch: gh-pages
-          pull_strategy: NO-PULL
-          push: origin gh-pages --force
+          pull_strategy: --rebase
+          add: skills.json
           message: "Automated Metadata Update"
