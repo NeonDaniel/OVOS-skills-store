@@ -19,5 +19,5 @@ jobs:
         with:
           add: skills.json
           branch: gh-pages
-          pull_strategy: NO-PULL
+          pull_strategy: --rebase
           message: "Automated Metadata Update"
