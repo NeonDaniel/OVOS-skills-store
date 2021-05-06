@@ -33,7 +33,7 @@
   },
   "download_url": "https://github.com/JarbasSkills/skill-ddg/archive/v0.1.0.tar.gz",
   "icon": "./res/icon/ddg.png",
-  "description": "Uses the [DuckDuckGo API](https://duckduckgo.com/api) to provide information. \n\nNOTE: this is meant a better alternative to the official duck duck go skill, it will be blacklisted",
+  "description": "THIS SHOULD BE IN SKILLS.JSON NOW!!! Uses the [DuckDuckGo API](https://duckduckgo.com/api) to provide information. \n\nNOTE: this is meant a better alternative to the official duck duck go skill, it will be blacklisted",
   "short_description": "Use DuckDuckGo to answer questions",
   "category": "Information",
   "categories": [
